@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">ROLL</string>
+    <string name="draw1">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="good_lucky_number">Good Lucky Number !!</string>
+</resources>
